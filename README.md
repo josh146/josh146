@@ -7,8 +7,9 @@ software at [Xanadu](https://xanadu.ai).
 
 ### At a glance 👀
 
-* I am a lead developer of [PennyLane](https://pennylane.ai/), a library for differentiable
-  programming of quantum computers.
+* I am a leading product development at Xanadu, with a focus on [PennyLane](https://pennylane.ai/), a library for differentiable
+  programming of quantum computers, and [Catalyst](https://github.com/PennyLaneAI/catalyst), a PythonJIT compiler
+  for hybrid quantum-classical programs.
   
 * I sit on the advisory board of the [Unitary Fund](https://unitary.fund), a non-profit working to create
   an accessible quantum technology ecosystem.
